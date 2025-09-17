@@ -9,4 +9,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="accent_pink">#fe2bd0</color>
+    <color name="grey"> #262525</color>
 </resources>
